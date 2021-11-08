@@ -1,0 +1,6 @@
+POST http://localhost:8080/clients
+Content-Type: application/json
+
+{"document": "44444444", "name" : "Daniel" , "address": "Colonia 1234"}
+
+###

@@ -1,0 +1,3 @@
+rootProject.name = 'labtic1_server'
+
+includeBuild '../labtic1_commons'
